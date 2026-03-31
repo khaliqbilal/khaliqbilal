@@ -1,99 +1,121 @@
-# 👋 Hi, I'm Bilal Khaliq
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0A0F2C&height=200&section=header&text=Bilal%20Khaliq&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-💻 Flutter Developer | 🌐 Web Enthusiast | 🎓 CS Student
-📍 Pakistan
+<h1 align="center">Hi 👋, I'm Bilal Khaliq</h1>
+
+<p align="center">
+  💻 Flutter Developer | 🌐 Web Developer | 🎓 CS Student
+</p>
+
+<p align="center">
+  📍 Pakistan • 📧 <a href="mailto:khaliqbilal53@gamil.com">khaliqbilal53@gamil.com</a> • 🐙 <a href="https://github.com/khaliqbilal">GitHub</a>
+</p>
 
 ---
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&size=26&center=true&vCenter=true&width=700&lines=Flutter+Developer;Web+Development;Building+Real+World+Projects;Learning+Everyday;Code.+Learn.+Build.+Repeat." />
+</p>
 
-```dart
-class DeveloperProfile {
-  final String name = "Bilal Khaliq";
-  final String role = "Flutter Developer";
-  final String education = "BS Computer Science";
-  final String location = "Pakistan 🇵🇰";
+---
 
-  List<String> skills = [
-    "Flutter",
-    "Web Development",
-    "Databases",
-    "Problem Solving"
-  ];
+## 👨‍💻 About Me
 
-  String mindset() => "Code. Learn. Build. Repeat.";
-}
-```
+- 🎓 Computer Science Student  
+- 💻 Focused on **Flutter & Web Development**  
+- 🛠️ Building **real-world applications & university projects**  
+- 🌱 Currently learning **Flutter, JavaScript & Databases**  
+- 🎯 Goal: Become a **professional Flutter Developer**  
 
-* 🎓 Computer Science Student
-* 💻 Focused on Flutter & Web Development
-* 🛠️ Building real-world projects
-* 📚 Continuously learning new technologies
-* 🎯 Goal: Become a professional Flutter Developer
+---
+
+## 🚀 Domains & Interests
+
+- 📱 Mobile App Development (Flutter)  
+- 🌐 Web Development (HTML, CSS, JS)  
+- 🗄️ Database Systems (MySQL, SQLite)  
+- 💡 Problem Solving & Algorithms  
+- 🎨 UI/UX Design  
 
 ---
 
 ## 🧠 Tech Stack
 
 ### 💻 Languages
-
-* Dart
-* JavaScript
-* HTML5
-* CSS3
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,js,html,css" />
+</p>
 
 ### ⚙️ Tools & Frameworks
-
-* Flutter
-* Git & GitHub
-* VS Code
-* Android Studio
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,git,github,vscode,androidstudio" />
+</p>
 
 ### 🗄️ Databases
-
-* MySQL
-* SQLite
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
 
 ---
 
-## 📱 Projects
+## 🚀 Featured Projects
 
-* 📊 **Quiz App** – Interactive quiz system with scoring
-* 🎓 **CGPA Calculator** – Multi-course GPA calculator with UI
-* 🏨 **Hotel Management System** – Database-based system
+### 📊 Quiz Application  
+- Interactive quiz system  
+- Multiple questions & scoring  
+- Built with Flutter  
+
+### 🎓 CGPA Calculator  
+- Multi-course GPA calculator  
+- Clean UI design  
+
+### 🏨 Hotel Management System  
+- Booking & database system  
+- Handles user & room data  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=midnight-purple)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khaliqbilal&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=midnight-purple)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaliqbilal&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-## 🔥 Streak
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=midnight-purple)
-
----
-
-## 🌐 Connect With Me
-
-* 📧 Email: [khaliqbilal53@gmail.com](mailto:khaliqbilal53@gmail.com)
-* 🐙 GitHub: https://github.com/khaliqbilal
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaliqbilal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🎯 Goals
+## 🏆 Achievements
 
-* 🚀 Become Flutter Developer
-* 📱 Publish apps on Play Store
-* 🌍 Build real-world applications
-* 🤝 Contribute to Open Source
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khaliqbilal&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## ✨ Motto
+## 👀 Visitor Counter
 
-> ⭐ Code. Learn. Build. Repeat.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khaliqbilal&label=Profile%20Views&color=00ffb3&style=flat" />
+</p>
+
+---
+
+## 🌌 Connect With Me
+
+<p align="center">
+  📧 <a href="mailto:khaliqbilal53@gamil.com">Email</a> • 🐙 <a href="https://github.com/khaliqbilal">GitHub</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0A0F2C&height=120&section=footer"/>
+</p>
