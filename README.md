@@ -1,16 +1,99 @@
-## Hi there 👋
+# 👋 Hi, I'm Bilal Khaliq
 
-<!--
-**khaliqbilal/khaliqbilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Flutter Developer | 🌐 Web Enthusiast | 🎓 CS Student
+📍 Pakistan
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+```dart
+class DeveloperProfile {
+  final String name = "Bilal Khaliq";
+  final String role = "Flutter Developer";
+  final String education = "BS Computer Science";
+  final String location = "Pakistan 🇵🇰";
+
+  List<String> skills = [
+    "Flutter",
+    "Web Development",
+    "Databases",
+    "Problem Solving"
+  ];
+
+  String mindset() => "Code. Learn. Build. Repeat.";
+}
+```
+
+* 🎓 Computer Science Student
+* 💻 Focused on Flutter & Web Development
+* 🛠️ Building real-world projects
+* 📚 Continuously learning new technologies
+* 🎯 Goal: Become a professional Flutter Developer
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
+
+* Dart
+* JavaScript
+* HTML5
+* CSS3
+
+### ⚙️ Tools & Frameworks
+
+* Flutter
+* Git & GitHub
+* VS Code
+* Android Studio
+
+### 🗄️ Databases
+
+* MySQL
+* SQLite
+
+---
+
+## 📱 Projects
+
+* 📊 **Quiz App** – Interactive quiz system with scoring
+* 🎓 **CGPA Calculator** – Multi-course GPA calculator with UI
+* 🏨 **Hotel Management System** – Database-based system
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=midnight-purple)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=midnight-purple)
+
+---
+
+## 🔥 Streak
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=midnight-purple)
+
+---
+
+## 🌐 Connect With Me
+
+* 📧 Email: [khaliqbilal53@gmail.com](mailto:khaliqbilal53@gmail.com)
+* 🐙 GitHub: https://github.com/khaliqbilal
+
+---
+
+## 🎯 Goals
+
+* 🚀 Become Flutter Developer
+* 📱 Publish apps on Play Store
+* 🌍 Build real-world applications
+* 🤝 Contribute to Open Source
+
+---
+
+## ✨ Motto
+
+> ⭐ Code. Learn. Build. Repeat.
